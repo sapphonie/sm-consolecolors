@@ -12,3 +12,5 @@ public void OnPluginStart()
     PrintToServer(ansi_cyan ... "Hello " ... ansi_bright_magenta ... "there" ... ansi_reset ... "!");
 }
 ```
+
+![](https://i.imgur.com/cb3wx6R.png)
